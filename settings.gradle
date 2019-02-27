@@ -1,1 +1,1 @@
-include ':app', ':service', ':client', ':launchmode', ':intentservicedemo'
+include ':app', ':service', ':client', ':launchmode', ':intentservicedemo', ':mvpdemo', ':mvcdemo'

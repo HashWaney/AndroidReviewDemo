@@ -12,6 +12,8 @@
             <option value="$PROJECT_DIR$/client" />
             <option value="$PROJECT_DIR$/intentservicedemo" />
             <option value="$PROJECT_DIR$/launchmode" />
+            <option value="$PROJECT_DIR$/mvcdemo" />
+            <option value="$PROJECT_DIR$/mvpdemo" />
             <option value="$PROJECT_DIR$/service" />
           </set>
         </option>

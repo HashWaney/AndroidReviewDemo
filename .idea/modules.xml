@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/client/client.iml" filepath="$PROJECT_DIR$/client/client.iml" />
       <module fileurl="file://$PROJECT_DIR$/intentservicedemo/intentservicedemo.iml" filepath="$PROJECT_DIR$/intentservicedemo/intentservicedemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/launchmode/launchmode.iml" filepath="$PROJECT_DIR$/launchmode/launchmode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvcdemo/mvcdemo.iml" filepath="$PROJECT_DIR$/mvcdemo/mvcdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvpdemo/mvpdemo.iml" filepath="$PROJECT_DIR$/mvpdemo/mvpdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
     </modules>
   </component>

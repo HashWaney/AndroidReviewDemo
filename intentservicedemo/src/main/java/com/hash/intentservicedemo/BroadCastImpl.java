@@ -3,6 +3,7 @@ package com.hash.intentservicedemo;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
+import android.webkit.WebView;
 
 /**
  * Created by HashWaney on 2019/2/25.
