@@ -1,1 +1,1 @@
-include ':app', ':service', ':client', ':launchmode', ':intentservicedemo', ':mvpdemo', ':mvcdemo'
+include ':app', ':service', ':client', ':launchmode', ':intentservicedemo', ':mvpdemo', ':mvcdemo', ':rxjavademo', ':asynctaskdemo', ':svgplaydemo', ':memoryleakdemo', ':sqlitedemo'
