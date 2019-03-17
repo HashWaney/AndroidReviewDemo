@@ -16,7 +16,7 @@ public class ActManager {
     private static ArrayList<AppCompatActivity> mData = new ArrayList<>();
 
     private ActManager() {
-        
+
 
     }
 
