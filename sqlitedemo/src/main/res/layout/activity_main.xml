@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.hash.sqlitedemo.MainActivity">
+
+    <Button
+        android:onClick="insertFun"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="insert" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:onClick="updateFun"
+        android:layout_height="wrap_content"
+        android:text="update" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:onClick="queryFun"
+        android:layout_height="wrap_content"
+        android:text="query" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:onClick="deleteFun"
+        android:layout_height="wrap_content"
+        android:text="delete" />
+</LinearLayout>
