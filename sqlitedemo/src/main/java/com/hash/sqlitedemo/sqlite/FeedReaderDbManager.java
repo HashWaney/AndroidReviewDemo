@@ -41,6 +41,7 @@ public class FeedReaderDbManager {
 //                } else {
 //                    System.err.println("数据库中存在该成员");
 //                }
+
                 Cursor query = db.query(true, FeedReaderContract.FeedEntry.TABLE_NAME,
                         new String[]{FeedReaderContract.FeedEntry.COLUMN_NAME_PERSON_ID},
                         FeedReaderContract.FeedEntry.COLUMN_NAME_PERSON_ID + " = ?",

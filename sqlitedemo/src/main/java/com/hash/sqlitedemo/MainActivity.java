@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
         person.setPersonName("kk");
         dbManager.updateAge(person);
 
+
     }
 
     //插入
